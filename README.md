@@ -1,4 +1,4 @@
-# PCOS Risk Prediction (Machine Learning)
+# PCOS Risk Prediction
 
 ## Overview
 This repository contains the **code and modeling pipeline** used to predict PCOS risk using unsupervised and supervised learning.  
@@ -21,7 +21,7 @@ Detailed methodology, interpretation, and clinical discussion are documented sep
 - Unit-aware feature scaling and encoding
 - **K-Means clustering** (Elbow method, PCA visualization)
 - **Random Forest classification** with class balancing
-- Model evaluation using accuracy, precision, recall, F1-score
+- Model evaluation using accuracy, precision, recall
 - Feature importance and error analysis
 
 
