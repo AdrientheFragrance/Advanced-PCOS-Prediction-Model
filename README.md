@@ -2,7 +2,10 @@
 
 ## Overview
 This repository contains the **code and modeling pipeline** used to predict PCOS risk using unsupervised and supervised learning.  
-Detailed methodology, interpretation, and clinical discussion are documented separately in an accompanying **Medium post**. The initial process and steps taken can be viewed in our [presentation](https://www.canva.com/design/DAG69HXDMcw/dy2fDIMcUyN_0bLfdxSy5Q/edit?utm_content=DAG69HXDMcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton):
+
+Detailed methodology, interpretation, and clinical discussion are documented separately in an accompanying [**Medium post**](https://lakshyasajal.medium.com/what-health-indicators-best-predict-pcos-risk-d1688c885e1e). 
+
+The initial process and steps taken can be viewed in our [presentation](https://www.canva.com/design/DAG69HXDMcw/dy2fDIMcUyN_0bLfdxSy5Q/edit?utm_content=DAG69HXDMcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton):
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0754d437-b850-47ae-96ce-6da430d2c40b" />
 
