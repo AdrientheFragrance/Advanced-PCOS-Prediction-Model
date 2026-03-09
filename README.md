@@ -1,5 +1,3 @@
-                                                                                                                                                     # PCOS Risk Prediction
-
 ## Overview
 This repository contains the **code and modeling pipeline** used to predict PCOS risk using unsupervised and supervised learning.  
 
