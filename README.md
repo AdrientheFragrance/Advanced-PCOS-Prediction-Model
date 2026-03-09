@@ -1,3 +1,8 @@
+# What Health Indicators Best Predict PCOS Risk?
+*By Adrien Rozario and Lakshya Sajal Kumar*
+
+<br>
+
 ## Overview
 This repository contains the **code and modeling pipeline** used to predict PCOS risk using unsupervised and supervised learning.  
 
